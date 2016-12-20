@@ -6,12 +6,5 @@
   ],
   "description": "Сетка для верстки на основе uikit в 12 колонок",
   "main": "",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "license": "MIT"
 }
