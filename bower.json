@@ -1,5 +1,7 @@
 { 
   "name": "sl-grid", 
-  "version": "0.0.1", 
-  "authors": "Nathan Stark"
+  "version": "0.0.2", 
+  "authors": "Nathan Stark", 
+  "license": "MIT", 
+  "homepage": "https://github.com/Nathan-Stark/sl-grid.git"
 }
