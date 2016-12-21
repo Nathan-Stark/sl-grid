@@ -1,17 +1,1 @@
-{
-  "name": "sl-grid",
-  "homepage": "https://github.com/Nathan-Stark/sl-grid",
-  "authors": [
-    "Nathan Stark"
-  ],
-  "description": "Сетка для верстки на основе uikit в 12 колонок",
-  "main": "",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
-}
+{"name": "sl-grid","homepage": "https://github.com/Nathan-Stark/sl-grid","authors": ["Nathan Stark"],"description": "Сетка для верстки на основе uikit в 12 колонок","main": "","license": "MIT"}
